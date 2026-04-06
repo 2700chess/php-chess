@@ -1,5 +1,5 @@
 {
-  "name": "chesslablab/php-chess",
+  "name": "2700chess/php-chess",
   "description": "A chess library offering move validation, common formats, multiple variants, UCI engine support, explanation of chess positions, image recognition, PGN parsing and knowledge extraction from games.",
   "type": "library",
   "license": "MIT",
